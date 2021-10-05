@@ -1,0 +1,35 @@
+{
+  "cozinha": [
+    { "item": "arroz", "quantidade": "0" },
+    { "item": "farofa", "quantidade": "" },
+    { "item": "carne_moida", "quantidade": "" },
+    { "item": "carneDeSol", "quantidade": "" },
+    { "item": "queijo", "quantidade": "" },
+    { "item": "presunto", "quantidade": "" },
+    { "item": "oregano", "quantidade": "" },
+    { "item": "azeitona", "quantidade": "" },
+    { "item": "requeijao", "quantidade": "" },
+    { "item": "cebola", "quantidade": "" },
+    { "item": "tomate", "quantidade": "" },
+    { "item": "trigo", "quantidade": "" },
+    { "item": "leite", "quantidade": "" },
+    { "item": "sal", "quantidade": "" },
+    { "item": "acucar", "quantidade": "" },
+    { "item": "oleo", "quantidade": "" },
+    { "item": "noz_mozcada", "quantidade": "" },
+    { "item": "molho_de_tomate", "quantidade": "" },
+    { "item": "morango", "quantidade": "" }
+  ],
+  "refrigerantes": [
+    { "item": "Coca Lata", "quantidade": 0 },
+    { "item": "Fanta Laranja Lata", "quantidade": 0 },
+    { "item": "Fanta Uva Lata", "quantidade": 0 },
+    { "item": "Guaraná Antarctica Lata", "quantidade": 0 },
+    { "item": "Coca 1L", "quantidade": 0 },
+    { "item": "Tubaína 1L",  "quantidade": 0 },
+    { "item": "Coca 2L", "quantidade": 0 },
+    { "item": "Tubaína 2L", "quantidade": 0 },
+    { "item": "Guaraná Antarctica 2L", "quantidade": 0 }
+  ],
+  "miscelanea": []
+}
